@@ -1,5 +1,5 @@
 # TeamRainy
-TeamRainyHack Client For 2b2t Server In Minecraft 1.20.4 Fabric
+TeamRainyHack Client For Minecraft 1.20.4 Fabric In 2b2t Server
 ## License
 GNU General Public License v3
 ## Credits
